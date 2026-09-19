@@ -43,4 +43,4 @@ The API key is never stored in the code. When deployed, it is kept in Streamlit 
 
 ## 👩‍🍳 Author
 
-Built by [Shadab Liaqat] as a beginner-friendly AI portfolio project.
+Built by Shadab Liaqat as a beginner-friendly AI portfolio project.
