@@ -20,6 +20,7 @@ CUISINES = {
     "🇰🇷 South Korea": ["Kimchi Fried Rice", "Bibimbap", "Tteokbokki"],
     "🇹🇭 Thailand": ["Pad Thai", "Green Curry", "Tom Yum"],
     "🇫🇷 France": ["Ratatouille", "Crepes", "Quiche"],
+    "🇪🇸 Spain": ["Paella", "Tortilla Espanola", "Gazpacho"],
 }
 
 # Fixed rules that the AI must always follow
